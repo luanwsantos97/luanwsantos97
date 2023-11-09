@@ -1,4 +1,4 @@
-### Hi, My name is Santos Luan. I'm 26 years old and love information technology, I have a degree in network computers and am enthusiastic about security information. 👋
+### Hi, My name is Santos Luan. I'm 26 years old and love information technology, I'm graduate in network computers and am enthusiastic about security information. 👋
 
 <!--
 **luanwsantos97/luanwsantos97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
